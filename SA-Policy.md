@@ -1,6 +1,6 @@
 # System and Services Acquisition
 
- CivicActions may work with clients to develop and documant a services acquisition policy
+ Bixal Solutions may work with clients to develop and documant a services acquisition policy
  when needed which covers:
 
 * Certification, Accreditation, and Security Assessments (CA)
@@ -18,22 +18,22 @@ any phase in an information system development life cycle.
 
 ## Scope
 
-See the [CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+See the [Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Policy overlay
 
 For information on roles and responsibilities, management commitment, coordination among
 organizational entities, compliance, reviews, and updates please see the
-[CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+[Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Procedures
 
-CivicActions active client development processes usually employ two-week planning
+Bixal Solutions active client development processes usually employ two-week planning
 sprints. Before each sprint, work is prioritized, inclusive of security needs.
 
 See SA-2.
 
-When applicable, CivicActions practices a Scrum process when developing new features or
+When applicable, Bixal Solutions practices a Scrum process when developing new features or
 fixing existing issues, including security fixes and enhancements.  Each feature or issue
 is assigned to a card in the system, where it goes through a process of being identified,
 prioritized, explored, delivered, and finally demonstrated. Each card is reviewed by the
@@ -46,27 +46,27 @@ as a "pull request", where preferred practice is to have at least one other team
 further reviews it before merging it into the code base. New features are deployed into
 our staging area where they undergo further security review and stakeholder acceptance
 testing, as well as automated acceptance tests.  The System Owner is responsible for
-ensuring appropriate staffing for security needs. The CivicActions Operations team
+ensuring appropriate staffing for security needs. The Bixal Solutions Operations team
 implements, configures, and maintains security controls.
 
-As part of CivicActions account management and access control, each service has a list of
-privileged accounts with the identities of the CivicActions team members who have those
+As part of Bixal Solutions account management and access control, each service has a list of
+privileged accounts with the identities of the Bixal Solutions team members who have those
 privileges. See AC and IA control families for more details.
 
 See SA-3.
 
-Active CivicActions project teams employ the agile development processes. Changes are made
+Active Bixal Solutions project teams employ the agile development processes. Changes are made
 early, often, and iteratively. Functions, ports, and protocols are part of this
 process. All such configuration is captured in version control and deployed in a an
 automated process.
 
 See SA-4.
 
-CivicActions Operations always obtains complete documentation, including administrator and user
+Bixal Solutions Operations always obtains complete documentation, including administrator and user
 documentation, for any technology that is used within any product or service. The maintenance of
 administrator- and user- facing documentation, in the form of version-controlled changes
 in a code repository or our documentation repository, is an assumed requirement for all
-changes. Currently, CivicActions only uses technology whose documentation can be shared
-publicly.  CivicActions values transparency and collaboration.
+changes. Currently, Bixal Solutions only uses technology whose documentation can be shared
+publicly.  Bixal Solutions values transparency and collaboration.
 
 See SA-5. 

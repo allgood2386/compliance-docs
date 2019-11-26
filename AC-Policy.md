@@ -1,16 +1,16 @@
 # Access Control Policy
 
-CivicActions develops, documents, and disseminates to all CivicActions staff the Access
+Bixal Solutions develops, documents, and disseminates to all Bixal Solutions staff the Access
 Control Policy which addresses purpose, scope, roles, responsibilities, management
 commitment, coordination among organizational entities, compliance, and procedures to
 facilitate the implementation of the access control policy and associated access controls.
-The CivicActions Access Control Policy is maintained in the CivicActions compliance-docs
-Github repository is accessible to all CivicActions staff.
+The Bixal Solutions Access Control Policy is maintained in the Bixal Solutions compliance-docs
+Github repository is accessible to all Bixal Solutions staff.
 
-CivicActions Information Security will review and update the CivicActions Access Control
+Bixal Solutions Information Security will review and update the Bixal Solutions Access Control
 Policy at least every 3 years and any documented access procedures at least annually.
 
-The CivicActions Access Control Policy covers:
+The Bixal Solutions Access Control Policy covers:
 
 * Access Control (AC)
 * Audit and Accountability (AU)
@@ -24,21 +24,21 @@ authorized users. Enforce "least privilege" methodologies for all system actions
 
 ## Scope
 
-See the [CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+See the [Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Policy overlay
 
 For information on roles and responsibilities, management commitment, coordination among
 organizational entities, compliance, reviews, and updates please see the
-[CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+[Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
-In addition, the CivicActions Information Security will coordinate with CivicActions
+In addition, the Bixal Solutions Information Security will coordinate with Bixal Solutions
 client services as needed.
 
 ## Procedures
 
-CivicActions gives administrative user roles to employees only after review by
-CivicActions Information Security. Reviews of user access rights are performed on a
+Bixal Solutions gives administrative user roles to employees only after review by
+Bixal Solutions Information Security. Reviews of user access rights are performed on a
 regular basis (at least twice annually). Employee access privileges are removed upon
 termination of their relationship to the company.
 
@@ -50,7 +50,7 @@ users by the client under the conditions of their Access Control Policy.
 
 See AC-2, AC-3, AC-7, AC-8, AC-14, AC-17
 
-CivicActions systems always adhere to the principle of role segmentation and least privilege
+Bixal Solutions systems always adhere to the principle of role segmentation and least privilege
 wherever possible.
 
 See AC-5, AC-6

@@ -1,6 +1,6 @@
 # Identification and Authentication Policy
 
-CivicActions systems incorporate proper user identification and authentication
+Bixal Solutions systems incorporate proper user identification and authentication
 methodology.  In some cases, basic security policy controls may need to be modified or
 supplemented in order to address application-specific or system-specific requirements.
 Typically, the following operational control families are implemented and monitored by
@@ -19,24 +19,24 @@ unhindered access to informational assets.
 
 ## Scope
 
-See the [CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+See the [Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Policy overlay
 
 For information on roles and responsibilities, management commitment, coordination among
 organizational entities, compliance, reviews, and updates please see the
-[CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+[Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
-In addition, the CivicActions Information Security will coordinate with CivicActions
+In addition, the Bixal Solutions Information Security will coordinate with Bixal Solutions
 client services as needed.
 
 ## Procedures
 
-In accordance with the [CivicActions Security and Compliance policy for
-Developers](https://civicactions-handbook.readthedocs.io/en/latest/05-engineering/security-compliance/),
-CivicActions internal users are uniquely identified by creation of an organizational
+In accordance with the [Bixal Solutions Security and Compliance policy for
+Developers](https://Bixal Solutions-handbook.readthedocs.io/en/latest/05-engineering/security-compliance/),
+Bixal Solutions internal users are uniquely identified by creation of an organizational
 account with a username based on each user's first and last name and an email based on
-their civicactions.com email address.
+their Bixal Solutions.com email address.
 
 Privileged user accounts are audited and privileges removed when no longer applicable.
 
