@@ -4,8 +4,7 @@ Bixal Solutions develops, documents, and disseminates to all Bixal Solutions sta
 Control Policy which addresses purpose, scope, roles, responsibilities, management
 commitment, coordination among organizational entities, compliance, and procedures to
 facilitate the implementation of the access control policy and associated access controls.
-The Bixal Solutions Access Control Policy is maintained in the Bixal Solutions compliance-docs
-Github repository is accessible to all Bixal Solutions staff.
+The Bixal Solutions Access Control Policy is maintained in the Bixal Solutions Handbook @todo get link/artifact/permission to publish.
 
 Bixal Solutions Information Security will review and update the Bixal Solutions Access Control
 Policy at least every 3 years and any documented access procedures at least annually.
