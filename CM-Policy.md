@@ -14,10 +14,11 @@ The Bixal Solutions Configuration Management Policy covers:
 
 ## Purpose
 
-Bixal Solutions works to maintain information systems in an immutable state as much as
+Bixal Solutions works to maintain information systems in an immutable and ephemeral state as much as
 feasible. To the greatest degree possible, the configuration of systems should be
 maintained in code so that at any time they can be rebuilt and replaced from a known and
-secure baseline state.
+secure baseline state. Logging should be forwarded to a Security Information and Event Management system
+where possible.
 
 ## Scope
 
@@ -51,4 +52,4 @@ The Bixal Solutions team uses the Agile development methodology to govern config
 changes with configuration captured in code and issue tickets. In some cases, a detailed
 Configuration Plan document will be created to detail specific needs for a client.
 
-See CM-6, CM-9. 
+See CM-6, CM-9.
