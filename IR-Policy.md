@@ -1,6 +1,6 @@
 # Incident response
 
-See the [Bixal Solutions Security Training](https://Bixal Solutions-handbook.readthedocs.io/en/latest/01-welcome-to-Bixal Solutions/training/security-training/) which covers:
+See the [Bixal Solutions Security Training](https://learning.bixal.com) which covers:
 
 * Awareness and Training (AT)
 * Configuration Management (CM)
@@ -30,7 +30,7 @@ organizational entities, compliance, reviews, and updates please see the
 
 The Bixal Solutions Security Office organizes incident response training sessions, offered to the whole Bixal Solutions team at least annually, and requires that all Bixal Solutions Operations team members take the training. The training may be led by a Project Manager or a Security or Operations team member.
 
-The Bixal Solutions team [Onboarding Process](https://Bixal Solutions-handbook.readthedocs.io/en/latest/08-hr-admin/onboarding-process/onboarding-process/) New Hire Checklist requires that all team members take incident response training within 30 days of joining the team. The training includes a quiz that requires an understanding of the procedures.
+The Bixal Solutions team [Onboarding Process](https://learning.bixal.com) New Hire Checklist requires that all team members take incident response training within 30 days of joining the team. The training includes a quiz that requires an understanding of the procedures.
 
 If the Bixal Solutions systems or processes change in a radical way, Bixal Solutions Security adapts the incident response training to meet the needs of the new system. Bixal Solutions Security then requires all Bixal Solutions team members to take the training again.
 
@@ -40,7 +40,7 @@ See IR-2.
 
 Bixal Solutions implements processes to detect and analyze malicious activity within the system platforms. If these processes detect malicious activity, they report the activity to the Operations team.
 
-Bixal Solutions has an [Incident Response Plan](https://Bixal Solutions-handbook.readthedocs.io/en/latest/09-security/incident-response-plan/) that documents the procedures that staff should take in the case of an incident.
+Bixal Solutions has an [Incident Response Plan @todo link this](https://Bixal Solutions-handbook.readthedocs.io/en/latest/09-security/incident-response-plan/) that documents the procedures that staff should take in the case of an incident.
 
 See IR-4, IR-5, IR-6.
 
@@ -54,7 +54,7 @@ As described in the Bixal Solutions security incident response guide and conting
 
 See IR-7.
 
-Bixal Solutions Security has developed an [Incident Response Plan](https://Bixal Solutions-handbook.readthedocs.io/en/latest/09-security/incident-response-plan/) to implement incident response capabilities.
+Bixal Solutions Security has developed an [Incident Response Plan @todo link this](https://Bixal Solutions-handbook.readthedocs.io/en/latest/09-security/incident-response-plan/) to implement incident response capabilities.
 
 The Incident Response Plan is continually reviewed and updated by the Bixal Solutions team. In addition, the Bixal Solutions team updates the IR Guide after it tests the guide, which happens at least annually and after any major system/organizational changes.
 
