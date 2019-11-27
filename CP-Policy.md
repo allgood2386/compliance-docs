@@ -1,6 +1,6 @@
 # Contingency planning
 
-See the [Bixal Solutions Security Training](https://Bixal Solutions-handbook.readthedocs.io/en/latest/01-welcome-to-Bixal Solutions/training/security-training/) which covers:
+See the [Bixal Solutions Security Training @todo link this](https://Bixal Solutions-handbook.readthedocs.io/en/latest/01-welcome-to-Bixal Solutions/training/security-training/) which covers:
 
 * Awareness and Training (AT)
 * Configuration Management (CM)
