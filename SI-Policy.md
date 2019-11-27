@@ -48,7 +48,7 @@ See SI-2.
 Bixal Solutions employs tools at information system entry and exit points to detect and
 eradicate malicious code with real-time scans. The Bixal Solutions Operations team follows
 the [Security Incident Response
-Guide](https://github.com/NuCivic/healthdata/wiki/incident-response-plan) upon detection
+Guide @todo link](https://github.com/NuCivic/healthdata/wiki/incident-response-plan) upon detection
 of any potential security incident.
 
 Bixal Solutions-developed open source code that is used in the Bixal Solutions products and
