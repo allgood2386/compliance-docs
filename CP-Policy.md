@@ -1,6 +1,6 @@
 # Contingency planning
 
-See the [CivicActions Security Training](https://civicactions-handbook.readthedocs.io/en/latest/01-welcome-to-civicactions/training/security-training/) which covers:
+See the [Bixal Solutions Security Training @todo link this](https://Bixal Solutions-handbook.readthedocs.io/en/latest/01-welcome-to-Bixal Solutions/training/security-training/) which covers:
 
 * Awareness and Training (AT)
 * Configuration Management (CM)
@@ -18,14 +18,14 @@ Identify scenarios of likely events that would substantively disrupt the confide
 
 ## Scope
 
-See the [CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+See the [Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Policy overlay
 
 For information on roles and responsibilities, management commitment, coordination among
 organizational entities, compliance, reviews, and updates please see the
-[CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+[Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Procedures
 
-See the [CivicActions Contingency Plan](https://civicactions-handbook.readthedocs.io/en/latest/09-security/contingency-plan/)
+See the [Bixal Solutions Contingency Plan](https://Bixal Solutions-handbook.readthedocs.io/en/latest/09-security/contingency-plan/)

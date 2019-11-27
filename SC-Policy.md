@@ -1,6 +1,6 @@
 # Systems and Communications Protection Policy
 
-CivicActions develops, documents, and disseminates secure system and communications
+Bixal Solutions develops, documents, and disseminates secure system and communications
 protection practices that may cover one or more controls within these families:
 
 * Access Control (AC)
@@ -17,31 +17,31 @@ confidentiality or integrity of the communication channel is disrupted.
 
 ## Scope
 
-See the [CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+See the [Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Policy overlay
 
 For information on roles and responsibilities, management commitment, coordination among
 organizational entities, compliance, reviews, and updates please see the
-[CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+[Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Procedures
 
-Only privileged CivicActions team roles (such as System Owner and Operations) have privileged access.
+Only privileged Bixal Solutions team roles (such as System Owner and Operations) have privileged access.
 
 See SC-2.
 
-CivicActions generates customer-specific least-privilege credentials which are restricted
+Bixal Solutions generates customer-specific least-privilege credentials which are restricted
 to reading and writing only data in shared resources belonging to that customer.
 
 See SC-4.
 
-When applicable, CivicActions uses well-formed firewall rules to reduce the attack surface
+When applicable, Bixal Solutions uses well-formed firewall rules to reduce the attack surface
 of hosted components.
 
 See SC-5, SC-6.
 
-CivicActions Operations team members configure client boundary protections and limits the
+Bixal Solutions Operations team members configure client boundary protections and limits the
 number of external network connections.
 
 See SC-7.

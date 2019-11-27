@@ -1,6 +1,6 @@
 # Physical and Environmental Protection
 
-Where possible, physical equipment is managed by virtual services employed by CivicActions
+Where possible, physical equipment is managed by virtual services employed by Bixal Solutions
 to host client products and services. Relevant controls may include one or more of:
 
 * Awareness and Training (AT)
@@ -15,19 +15,18 @@ to host client products and services. Relevant controls may include one or more 
 
 ## Purpose
 
-Not applicable. CivicActions leverages external virtual services for all physical and
+Not applicable. Bixal Solutions leverages external virtual services for all physical and
 environmental protection.
 
 ## Scope
 
-See the [CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
-
+See the [Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Policy overlay
 
 For information on roles and responsibilities, management commitment, coordination among
 organizational entities, compliance, reviews, and updates please see the
-[CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+[Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Procedures
 

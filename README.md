@@ -1,8 +1,9 @@
 # Compliance documentation
 
-This repository documents CivicActions common security policies and procedures, which are used by the CivicActions team.
+This repository documents Bixal Solutions common security policies and procedures, which are used by the Bixal Solutions team. This was orginally created
+with the help of our friends at [CivicActions](https://civicactions.com/), a champion for automated, open source solutions in the US Federal Government.
 
-This is a public repository following [CivicActions' Open Source Policy](https://civicactions-handbook.readthedocs.io/en/latest/01-welcome-to-civicactions/training/intro-open-source/). See our [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTRIBUTING.md) files for additional information.
+This is a public repository following [Bixal Solutions' Open Source Policy](https://Bixal Solutions-handbook.readthedocs.io/en/latest/01-welcome-to-Bixal Solutions/training/intro-open-source/). See our [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTRIBUTING.md) files for additional information.
 
 ## Creative Commons
 

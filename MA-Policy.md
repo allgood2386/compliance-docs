@@ -8,20 +8,20 @@ or supplemented in order to address application-specific or system-specific requ
 
 ## Purpose
 
-Not applicable. CivicActions does not maintain hardware and generally utilizes systems
+Not applicable. Bixal Solutions does not maintain hardware and generally utilizes systems
 provided by remote hoting or cloud-based IaaS services. See below for a discussion of
 software maintenance.
 
 ## Scope
 
-See the [CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+See the [Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Policy overlay
 
 For information on roles and responsibilities, management commitment, coordination among
 organizational entities, compliance, reviews, and updates please see the
-[CivicActions Common Control Policy](CivicActions-Common-Control-Policy.md).
+[Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
 ## Procedures
 
-Software maintenance policy is client specific, and is generall accomplished via the procedures of [Configuration Management (CM)](https://github.com/CivicActions/compliance-docs/blob/master/CM-Policy.md) and [System and Services Acquisition (SA)](https://github.com/CivicActions/compliance-docs/blob/master/SA-Policy.md). Please see those control families for details.
+Software maintenance policy is client specific, and is generally accomplished via the procedures of [Configuration Management (CM)](https://github.com/bixal/compliance-docs/blob/master/CM-Policy.md) and [System and Services Acquisition (SA)](https://github.com/bixal/compliance-docs/blob/master/SA-Policy.md). Please see those control families for details.
