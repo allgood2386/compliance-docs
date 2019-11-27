@@ -33,7 +33,7 @@ client services as needed.
 ## Procedures
 
 In accordance with the [Bixal Solutions Security and Compliance policy for
-Developers](https://Bixal Solutions-handbook.readthedocs.io/en/latest/05-engineering/security-compliance/),
+Developers @todo link this](https://Bixal Solutions-handbook.readthedocs.io/en/latest/05-engineering/security-compliance/),
 Bixal Solutions internal users are uniquely identified by creation of an organizational
 account with a username based on each user's first and last name and an email based on
 their Bixal Solutions.com email address.
