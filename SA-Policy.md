@@ -35,10 +35,10 @@ See SA-2.
 
 When applicable, Bixal Solutions practices a Scrum process when developing new features or
 fixing existing issues, including security fixes and enhancements.  Each feature or issue
-is assigned to a card in the system, where it goes through a process of being identified,
-prioritized, explored, delivered, and finally demonstrated. Each card is reviewed by the
+is assigned to a ticket in the system, where it goes through a process of being identified,
+prioritized, explored, delivered, and finally demonstrated. Each ticket is reviewed by the
 team as a whole throughout its lifecycle to identify any security risks or concerns, which
-are recorded on the card as "acceptance criteria" that must be addressed before
+are recorded on the ticket as "acceptance criteria" that must be addressed before
 development is complete.
   
 Once development is complete, a team member submits the code to the version control system
@@ -69,4 +69,4 @@ in a code repository or our documentation repository, is an assumed requirement 
 changes. Currently, Bixal Solutions only uses technology whose documentation can be shared
 publicly.  Bixal Solutions values transparency and collaboration.
 
-See SA-5. 
+See SA-5.
