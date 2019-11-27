@@ -24,4 +24,4 @@ organizational entities, compliance, reviews, and updates please see the
 
 ## Procedures
 
-Software maintenance policy is client specific, and is generall accomplished via the procedures of [Configuration Management (CM)](https://github.com/Bixal Solutions/compliance-docs/blob/master/CM-Policy.md) and [System and Services Acquisition (SA)](https://github.com/Bixal Solutions/compliance-docs/blob/master/SA-Policy.md). Please see those control families for details.
+Software maintenance policy is client specific, and is generally accomplished via the procedures of [Configuration Management (CM)](https://github.com/bixal/compliance-docs/blob/master/CM-Policy.md) and [System and Services Acquisition (SA)](https://github.com/bixal/compliance-docs/blob/master/SA-Policy.md). Please see those control families for details.
