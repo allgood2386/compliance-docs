@@ -1,6 +1,6 @@
 # Bixal Solutions Common Control Policy
 
-Bixal Solutions has implemented and documented a set of common control policies. All policies are disseminated to employees and contractors via the [Bixal Solutions Handbook](https://Bixal Solutions-handbook.readthedocs.io/en/latest/README/) and through required re-occuring internal trainings.
+Bixal Solutions has implemented and documented a set of common control policies. All policies are disseminated to employees and contractors via the [Bixal Solutions Handbook @todo get copy] and through required re-occuring internal trainings.
 
 Bixal Solutions Information Security works to ensure policies stay current given any updates to law, regulation, or operational procedures.
 
@@ -21,19 +21,19 @@ services and data.
 
 ## Roles and responsibilities
 
-The Bixal Solutions Office of the Chief Information Security Officer, otherwise known as Bixal Solutions Information Security, is responsible for ensuring that all employees and contracts are familiar and trained in these policies, and to ensure that appropriate procedures are established and tested.
+The Bixal Solutions Technology Group, otherwise known as Bixal Solutions Information Security, is responsible for ensuring that all employees and contracts are familiar and trained in these policies, and to ensure that appropriate procedures are established and tested.
 
 ## Management commitment
 
-The Bixal Solutions Chief Information Security Officer is ultimately responsible for these policies. 
+The Bixal Solutions Director of Technolgy is ultimately responsible for these policies.
 
-## Coordination 
+## Coordination
 
 Bixal Solutions Information Security works in close coordination and collaboration with Bixal Solutions Information Technology, Development and Operations (collectively called "Operations" in these policies), and is home to multiple infrastructure and security experts. Implementations and recommendations for policy additions and improvements are constantly coordinated between the teams.
 
 ## Compliance
 
-The Bixal Solutions Director of Technology is ultimately responsible for ensuring that the procedures of all Bixal Solutions systems adhere to these policies. The Bixal Solutions Director of Technology accepts the risk of operating all Low and Moderate impact systems and reviews for compliance before granting an authority to operate (ATO).	
+The Bixal Solutions Director of Technology is ultimately responsible for ensuring that the procedures of all Bixal Solutions systems adhere to these policies. The Bixal Solutions Director of Technology accepts the risk of operating all Low and Moderate impact systems and reviews for compliance before granting an authority to operate (ATO).
 
 ## Reviews
 
