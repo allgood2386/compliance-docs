@@ -16,7 +16,7 @@ The Bixal Solutions Audit and Accountability Policy covers:
 
 ## Purpose
 
-Ensure all actions taken on the information system are transparent, valid, and prevent repudiation. 
+Ensure all actions taken on the information system are transparent, valid, and prevent repudiation.
 
 ## Scope
 
@@ -64,7 +64,7 @@ See AU-5.
 
 Security vulnerabilities and system inconsistencies are reviewed by the Bixal Solutions Operations team (notified by email, text message and voice phone call). Security vulnerabilities which are not classified as high are reviewed weekly and resolved by Bixal Solutions Operations.
 
-The Bixal Solutions Operations team acts on findings that result from its regular audit process according to its [incident response guidelines](https://github.com/Bixal Solutions/devops/blob/master/docs/incident-response-plan.md) including notifying Bixal Solutions Information Security, the System Owner, and the ISSO.
+The Bixal Solutions Operations team acts on findings that result from its regular audit process according to its [incident response guidelines @todo get copy here](https://github.com/Bixal Solutions/devops/blob/master/docs/incident-response-plan.md) including notifying Bixal Solutions Information Security, the System Owner, and the ISSO.
 
 See AU-6.
 
@@ -82,7 +82,7 @@ See AU-11.
 
 Bixal Solutions provides audit record generation capability.
 
-Bixal Solutions Operations is responsible for maintaining the configuration that enforces the audit settings. 
+Bixal Solutions Operations is responsible for maintaining the configuration that enforces the audit settings.
 Bixal Solutions Operations team members select which auditable events are to be audited per system and client requirements.
 
 See AU-12.
