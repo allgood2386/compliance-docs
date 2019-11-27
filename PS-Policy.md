@@ -3,8 +3,7 @@
 Bixal Solutions
 [employment](https://Bixal Solutions-handbook.readthedocs.io/en/latest/03-policies/employment/)
 includes background checks, agreement to a [Conflict of Interest
-Plan](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit?usp=sharing), and may cover one or more controls listed in these families:
-
+Plan @todo link](https://docs.google.com/document/d/1JSvThcqIM8BSmIoAjUrNZPdx0wemMCiyrBRyChORfv0/edit?usp=sharing), and may cover one or more controls listed in these families:
 
 * Awareness and Training (AT)
 * Configuration Management (CM)
