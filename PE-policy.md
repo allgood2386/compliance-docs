@@ -22,7 +22,6 @@ environmental protection.
 
 See the [Bixal Solutions Common Control Policy](BixalSolutions-Common-Control-Policy.md).
 
-
 ## Policy overlay
 
 For information on roles and responsibilities, management commitment, coordination among
