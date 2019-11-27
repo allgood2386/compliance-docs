@@ -1,6 +1,6 @@
 # Security Awareness and Training Policy
 
-See the [Bixal Solutions Security Training](https://Bixal Solutions-handbook.readthedocs.io/en/latest/01-welcome-to-Bixal Solutions/training/security-training/) which covers:
+See the [Bixal Solutions Security Training](https://learning.bixal.com) which covers:
 
 * Awareness and Training (AT)
 * Configuration Management (CM)
@@ -32,9 +32,8 @@ client services as needed.
 ## Procedures
 
 All Bixal Solutions employees undergo a
-[Security Awareness training](https://Bixal Solutions-handbook.readthedocs.io/en/latest/01-welcome-to-Bixal Solutions/training/security-training/)
-that includes the
-[Acceptable Use Policy](https://Bixal Solutions-handbook.readthedocs.io/en/latest/03-policies/security/#acceptable-use-policy)
+[Security Awareness training](https://learning.bixal.com) that includes the
+[Acceptable Use Policy @todo handbook link](https://Bixal Solutions-handbook.readthedocs.io/en/latest/03-policies/security/#acceptable-use-policy)
 and the required use of a password manager and two factor authentication for access to
 restricted resources.
 
